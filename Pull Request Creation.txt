@@ -1,0 +1,20 @@
+Steps follwoed to created pull request :
+
+1. Forked the repository
+	By clicking fork button on GIT HUB/BITBUKCET
+2. Cloned the new repository
+	git clone "New repository clone URL"
+3. Created new branch in cloned repository
+	git checkout -b "Branch Name"
+4. Made some changes to that branch 
+	ie : edit any file/ add or delete some file
+5. Now open cmd/git bash and see the changes
+	git status
+6. Now add these changes to the repo
+	git add .
+7. Then commit your changes to the branch with a message
+	git commit --m "Some message"
+8. Now push these changes to your branch
+	git push origin "Branch Name"
+9. Go to the repo, you just creared by fork (Means your repo)
+	click on "create pull request button"
