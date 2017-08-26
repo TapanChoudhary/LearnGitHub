@@ -1,0 +1,16 @@
+1. Go to jenkins Home page
+2. Click on Manage Jenkins
+3. Go to Configure System
+4. Move down to "Extended E-mail Notification" tab
+5. Provide your mail "SMTP server" EXAMPLE : smtp.gmail.com
+6. Click on advanced button
+7. Check "Use SMTP Authentication" check-box
+8. Provide your User Name 	Example : tapan********@gmail.com
+9. Provide your Password 	Example : yourPasswordHere
+10. Check the checkbox "Use SSL"
+11. Provide smtp port 		Example : 465
+12. Select content type from drop-down Example : HTML (text/html)
+
+You can leave the rest, and modify them specific to job
+
+YOU ARE DONE !!!!!!!! CONGRATS !!!!!!
